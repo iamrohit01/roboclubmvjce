@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @roboclubmvjce
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# MVJ College Robotics Club
 
-<!---
-roboclubmvjce/roboclubmvjce is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to the MVJ College Robotics Club GitHub repository!
+We are a dynamic student Club at MVJ College of Engineering (MVJCE) dedicated to exploring the exciting world of robotics and automation. Our club is a hub of innovation, learning, and hands-on experiences in the field of robotics. 
+Join us in building the future, one robot at a time!
